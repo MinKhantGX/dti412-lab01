@@ -51,3 +51,14 @@ Future Development Plan
 * Technologies I want to learn: Advanced cloud infrastructure and automated deployment tools.
 
 * Dream Job Position: Network Architect or Tech Startup Founder.
+
+
+Semester Goals:
+Learn Django
+Learn REST API Development
+Learn Cloud Deployment
+
+Portfolio Projects
+1. Student Management System
+2. Internship Management System
+3. Inventory Management System
